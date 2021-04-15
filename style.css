@@ -4,7 +4,7 @@ padding:0px;
 }
 body{
 
-  font-size:30px;
+  font-size:15px;
 }
  .menu{
  width:100%;
@@ -20,7 +20,7 @@ body{
  }
 .mnu{
 width:95%;
-height:50px;
+height:60px;
 margin:auto;
 margin-top:1px;
 background:rgb(47,117,250);
@@ -38,7 +38,7 @@ text-shadow:3px 3px 1px black;
 }
 
 .mn{
-margin-top:67px;
+margin-top:77px;
 }
 
 full{
@@ -64,7 +64,7 @@ background-color:black;
 }
 .hd th{
 padding-top:8px;
-font-size:35px;
+font-size:40px;
 color:yellow;
 }
 
@@ -100,7 +100,7 @@ background:yellow;
 }
 .mag th{
 color:black;
-font-size:28px;
+font-size:35px;
 }
 .magth{
 background:#b08b06;
